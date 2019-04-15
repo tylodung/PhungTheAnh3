@@ -9,7 +9,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Cuộc đời người tu',
-    siteUrl: 'https://juliacat.site/',
+    siteUrl: 'https://tick-travel.com/',
     rssFeedTitle: 'cuocdoinguoitu',
     rssFeedDescription: 'Đoàn Bình và Cuộc đời người tu',
   },
