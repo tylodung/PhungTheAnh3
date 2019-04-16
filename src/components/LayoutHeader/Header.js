@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Cuộc đời người tu
+            Quá Khứ Của Tiền Bối
           </span>
         </Link>
 
@@ -116,7 +116,7 @@ const Header = ({location}) => (
           }}>
           <HeaderLink
             isActive={location.pathname.includes('/blog')}
-            title="Người tu hành khổ hạnh"
+            title="Đời Sống Thanh Nhàn"
             to="/blog/"
           />
         </nav>
@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://github.com/thaoam/loinguoixua"
+            href="https://tick-travel.com/"
             target="_blank"
             rel="noopener">
             Bakadono {version}

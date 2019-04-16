@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Cuộc đời người tu hành
+                Cuộc Sống Như Tiên
               </h1>
               <p
                 css={{
@@ -114,7 +114,7 @@ class Home extends Component {
                     fontSize: 30,
                   },
                 }}>
-                Cuộc sống tu hành khổ hạnh giáo huấn Đức Phật..
+                Lịch Sử Một Thời Đã Qua..
               </p>
               <Flex
                 valign="center"
@@ -126,7 +126,7 @@ class Home extends Component {
                   },
                 }}>
                 <CtaItem>
-                  <ButtonLink to="/blog/all.html" type="primary">
+                  <ButtonLink to="/blog/" type="primary">
                     Bắt đầu
                   </ButtonLink>
                 </CtaItem>
@@ -157,13 +157,13 @@ class Home extends Component {
           <Container>
             <Flex valign="center">
               <CtaItem>
-                <ButtonLink to="/blog/all.html" type="primary">
+                <ButtonLink to="/blog/" type="primary">
                   Bắt đầu
                 </ButtonLink>
               </CtaItem>
               <CtaItem>
                 <ButtonLink to="/blog/all.html" type="secondary">
-                  Xem Các Cuộc đời người tu
+                  Xem Các Cuộc đời..
                 </ButtonLink>
               </CtaItem>
             </Flex>
