@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Cuộc Sống Như Tiên
+                Dấu Chân Huyền Thoại
               </h1>
               <p
                 css={{

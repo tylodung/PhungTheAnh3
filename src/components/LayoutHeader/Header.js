@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Quá Khứ Của Tiền Bối
+            Hành Trình Lịch Sử
           </span>
         </Link>
 
