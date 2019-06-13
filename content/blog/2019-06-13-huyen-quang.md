@@ -29,7 +29,7 @@ Thuở nhỏ Sư dung nhan kỳ lạ, ý chí xa vời, cha mẹ mến yêu dạ
 
 Sư được bổ làm quan ở Hàn lâm viện và phụng mạng tiếp đón sứ Trung Hoa. Văn chương ngôn ngữ của Sư vượt hơn sứ Trung Hoa, khiến họ phải nể phục.
 
-Một hôm, Sư theo vua Anh Tông đến chùa Vĩnh Nghiêm ở huyện Phụng Nhãn nghe Thiền sư Pháp Loa giảng kinh, Sư chợt tỉnh ngộ duyên trước, khen ngợi quí mến, tự than: “Làm quan được lên đảo Bồng, đắc đạo thì đến Phổ Đà, đảo trên nhân gian là bậc tiên, cảnh giới Tây thiên là cõi Phật. Sự giàu sang phú quí như lá vàng mùa thu, mây trắng mùa hạ, đâu nên mến luyến ?”
+Một hôm, Sư theo vua Anh Tông đến chùa Vĩnh Nghiêm ở huyện Phụng Nhãn nghe Thiền sư Pháp Loa giảng kinh, Sư chợt tỉnh ngộ duyên trước, khen ngợi quí mến, tự than: “Làm quan được lên đảo Bồng, đắc đạo thì đến Phổ Đà, đảo trên nhân gian là bậc tiên, cảnh giới Tây thiên là cõi Phật. Sự giàu sang phú quí như lá vàng mùa thu, mây trắng mùa hạ, đâu nên mến luyến?”
 
 Sư mấy phen dâng biểu xin từ chức để xuất gia tu hành. Chính nhà vua rất mến trọng Phật giáo, nên sau cùng mới cho. Đến niên hiệu Hưng Long thứ mười ba (1305), Sư xuất gia thọ giới tại chùa Vĩnh Nghiêm, theo làm thị giả Điều Ngự, được pháp hiệu là Huyền Quang.
 

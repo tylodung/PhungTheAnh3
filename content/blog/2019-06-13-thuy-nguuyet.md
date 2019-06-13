@@ -1,5 +1,5 @@
 ---
-title: Thiền Sư THỦY NGUYỆT
+title: Thiền Sư Thuỷ Nguyệt
 author: ["doanbinh"]
 ---
 
@@ -9,7 +9,7 @@ Sư sanh năm Đinh Sửu (1637), quê ở Thanh Triều, huyện Ngự Thiên, 
 
 Vừa lớn lên, Sư theo học Nho giáo, đến 18 tuổi thi đậu Cống cử tứ trường. Đến năm 20 tuổi, Sư chán cảnh đời bọt bèo dâu bể, thích đi tu theo các Thiền sư. Sư bỏ nghiệp Nho, tìm đến chùa xã Hỗ Đội, huyện Thụy Anh xin xuất gia học đạo. Ở đây sáu năm học các kinh sách, Sư chưa thỏa mãn, xin phép thầy đi du phương tham vấn.
 
- Đi tham vấn hết các bậc tôn túc trong nước, mà tâm chưa sáng đạo. Lần lượt đã 28 tuổi đầu, Sư quyết chí sang Trung Quốc tầm học. Tháng 3 năm Giáp Thìn (1664) niên hiệu Cảnh Trị triều Lê, Sư cùng hai đệ tử lên đường sang Trung Quốc.
+Đi tham vấn hết các bậc tôn túc trong nước, mà tâm chưa sáng đạo. Lần lượt đã 28 tuổi đầu, Sư quyết chí sang Trung Quốc tầm học. Tháng 3 năm Giáp Thìn (1664) niên hiệu Cảnh Trị triều Lê, Sư cùng hai đệ tử lên đường sang Trung Quốc.
 
 Trên đường đi rất vất vả nhọc nhằn, vừa tới tỉnh Cao Bằng thì một người đệ tử mắc bệnh nặng, thuốc thang không khỏi phải chết. Sư chôn cất bên vệ đường và dặn rằng: “Nay ngươi sức mỏi không thể theo ta được, thôi tạm nghỉ nơi đây, khi ta ngộ đạo trở về sẽ tế độ cho ngươi.” Từ đây chỉ còn hai thầy trò vai mang bình bát chẳng quản ngại đường sá xa xôi, hăm hở tiến tới với tấm lòng vui với đạo. Một hôm trên đường trèo đèo lội suối, Sư cảm hứng ngâm:
 
@@ -37,7 +37,7 @@ Bấy giờ, Sư xin ở nhờ ngoài cổng tam quan, ban ngày học tiếng H
 
 Hòa thượng xem qua, cảm lời khẩn khoản và thấu rõ nguyên nhân, tuy chưa thấy mặt mà đã rõ tình ý trong lời, bèn bảo vị tăng giữ cửa dẫn Sư vào. Sư theo vị tăng dẫn đến tăng phòng, thấy Hòa thượng ngồi kiết già giữa nhà rất đoan nghiêm, tăng chúng đứng hầu hai bên rất chỉnh túc. Sư đảnh lễ Hòa thượng rồi, quì thẳng chắp tay trước Hòa thượng. Hòa thượng cất tiếng hỏi:
 
-- Trước khi cha mẹ chưa sanh, trong ấy cái gì là bản lai diện mục của ngươi ?
+- Trước khi cha mẹ chưa sanh, trong ấy cái gì là bản lai diện mục của ngươi?
 
 Sư thưa: - Mặt trời sáng giữa hư không.
 
@@ -47,7 +47,7 @@ Sư lại lễ rồi cuốn chiếu. Hòa thượng bảo:
 
 - Cho ngươi nhập chúng, tùy theo chúng tham vấn.
 
-Sư từ đây ngày thì làm việc tùng lâm, đêm thì nghiên cứu kinh luật, chuyên cần không hề lười trễ. Được một năm, Sư muốn cầu thọ giới Tỳ-kheo liền lên phương trượng đảnh lễ Hòa thượng, quì thưa: “Trong cửa Phật có ba môn học, lấy giới làm đầu, cúi xin Hòa thượng cho con được thọ giới cụ túc.” Hòa thượng dạy: “Muốn thọ giới cụ túc phải sắm đủ bảy vật (ca-sa, bình bát... ), đến tháng tư mới đăng đàn truyền giới.” Đến ngày mùng 8 tháng 4, Hòa thượng thiết lập đàn tràng có đủ tam sư thất chứng, bạch tứ yết-ma, truyền giới cho Sư. Lúc bấây giờ, Sư được 30 tuổi.
+Sư từ đây ngày thì làm việc tùng lâm, đêm thì nghiên cứu kinh luật, chuyên cần không hề lười trễ. Được một năm, Sư muốn cầu thọ giới Tỳ-kheo liền lên phương trượng đảnh lễ Hòa thượng, quì thưa: “Trong cửa Phật có ba môn học, lấy giới làm đầu, cúi xin Hòa thượng cho con được thọ giới cụ túc.” Hòa thượng dạy: “Muốn thọ giới cụ túc phải sắm đủ bảy vật (ca-sa, bình bát... ), đến tháng tư mới đăng đàn truyền giới.” Đến ngày mùng 8 tháng 4, Hòa thượng thiết lập đàn tràng có đủ tam sư thất chứng, bạch tứ yết-ma, truyền giới cho Sư. Lúc bấy giờ, Sư được 30 tuổi.
 
 Lật bật đã hết sáu năm, một hôm Hòa thượng gọi Sư vào phương trượng hỏi:- Đã thấy tánh chưa ?
 
@@ -87,7 +87,7 @@ Hòa thượng đưa tay điểm trên đầu Sư cho hiệu là Thông Giác Đ
 
 Để về Việt Nam truyền tông Tào Động. Hòa thượng lại dạy:
 
--  Ngươi về nên tinh tấn làm Phật sự, giảng nói đề cao chánh pháp, không nên chần chờ để tâm theo với vọng trần, trái lời Phật, Tổ dặn dò; ngươi thành tâm đi muôn dặm đến đây nay tôi cho một bài kệ để gắng tiến:
+- Ngươi về nên tinh tấn làm Phật sự, giảng nói đề cao chánh pháp, không nên chần chờ để tâm theo với vọng trần, trái lời Phật, Tổ dặn dò; ngươi thành tâm đi muôn dặm đến đây nay tôi cho một bài kệ để gắng tiến:
 
           Rừng quế gương đưa đèn nối sáng
 
