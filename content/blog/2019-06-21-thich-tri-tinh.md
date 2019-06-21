@@ -4,20 +4,23 @@ author: ["doanbinh"]
 ---
 
 
-GN - Đại lão Hòa thượng thượng Trí hạ Tịnh, tân viên tịch lúc 9g15, ngày 28-3-2014 (nhằm ngày 28-2-Giáp Ngọ), trụ thế 98 năm, 69 hạ lạp...
+Đại lão Hòa thượng thượng Trí hạ Tịnh, tân viên tịch lúc 9g15, ngày 28-3-2014 (nhằm ngày 28-2-Giáp Ngọ), trụ thế 98 năm, 69 hạ lạp...
 
 ![ten buc hinh](https://giacngo.vn/UserImages/2014/04/02/11/HTTri%20Tinh.jpg "ten buc hinh")
 
-TIỂU SỬ
-ĐẠI LÃO HÒA THƯỢNG THÍCH TRÍ TỊNH
+Phó Pháp chủ kiêm Giám luật Hội đồng Chứng minh;
 
-Phó Pháp chủ kiêm Giám luật Hội đồng Chứng minh
-Chủ tịch Hội đồng Trị sự Giáo hội Phật giáo Việt Nam
-Trưởng ban Tăng sự Trung ương GHPGVN
-Phó Chủ tịch Ủy ban Trung ương MTTQVN
-Nguyên Phó Chủ tịch Ủy ban MTTQVN TP.Hồ Chí Minh
-Viện chủ chùa Vạn Đức, quận Thủ Đức, TP.Hồ Chí Minh
-Chùa Vạn Linh, huyện Tịnh Biên, tỉnh An Giang
+Chủ tịch Hội đồng Trị sự Giáo hội Phật giáo Việt Nam;
+
+Trưởng ban Tăng sự Trung ương GHPGVN;
+
+Phó Chủ tịch Ủy ban Trung ương MTTQVN;
+
+Nguyên Phó Chủ tịch Ủy ban MTTQVN TP.Hồ Chí Minh;
+
+Viện chủ chùa Vạn Đức, quận Thủ Đức, TP.Hồ Chí Minh;
+
+Chùa Vạn Linh, huyện Tịnh Biên, tỉnh An Giang.
 
 **I. THÂN THẾ:**
 
@@ -112,13 +115,13 @@ Năm 2004, Đại lão Hòa thượng đảm nhiệm cương vị Đàn đầu H
 
 Đặc biệt, Đại lão Hòa thượng đã được Ban Trị sự Tỉnh hội Phật giáo Bà Rịa - Vũng Tàu cung thỉnh đảm nhiệm cương vị Hòa thượng Đàn đầu truyền giới Tỳ-kheo tại Đại giới đàn Thiện Hòa I (1993), Thiện Hòa III (2000), Thiện Hòa IV (2003), Thiện Hòa V (2006), Thiện Hòa VII (2013). Ngoài ra, Đại lão Hòa thượng còn chứng minh  nhiều Đại Giới đàn do Ban Trị sự Phật giáo các tỉnh lân cận TP.Hồ Chí Minh tổ chức.
 
-+ BIÊN SOẠN VÀ PHIÊN DỊCH:
+**BIÊN SOẠN VÀ PHIÊN DỊCH:**
 
 Mặc dù bận rộn nhiều công việc cho Giáo hội, Đại lão Hòa thượng vẫn dành thời gian để dịch kinh và giảng kinh. Những tác phẩm Hòa thượng đã biên soạn, phiên dịch và phổ biến như:
 
 Kinh Pháp hoa (8 quyển); Kinh Hoa nghiêm (8 quyển); Kinh Đại bát Niết-bàn (2 quyển); Kinh Đại Bát-nhã (3 quyển); Kinh Đại bảo tích + Đại Tập (12 quyển); Kinh Phổ Hiền hạnh nguyện ; Kinh Địa Tạng bổn nguyện; Kinh Tam bảo; Tỳ-kheo giới bổn; Bồ-tát giới bổn; Kinh Pháp hoa cương yếu (Tóm tắt); Kinh Pháp hoa thông nghĩa (Tóm tắt); Cực lạc Liên hữu tập; Đường về Cực lạc; Ngộ tánh luận.
 
-+ XÂY DỰNG:
+**XÂY DỰNG:**
 
 Năm 1995, Đại lão Hòa thượng khởi công xây dựng lại chùa Vạn Linh và Tháp Tổ Hồng Xứng - Núi Cấm, huyện Tịnh Biên, tỉnh An Giang.
 
@@ -132,15 +135,15 @@ Năm 2004, Đại lão Hòa thượng khởi công xây dựng lại chánh đi�
 
 Với những công đức mà Đại lão Hòa thượng đã đóng góp cho Đạo pháp và Dân tộc, nên Hòa thượng đã được Nhà nước Cộng hòa Xã hội Chủ nghĩa Việt Nam, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam tặng thưởng:
 
--     Huân chương Hồ Chí Minh
+- Huân chương Hồ Chí Minh;
 
--     Huân chương Độc Lập hạng nhất
+- Huân chương Độc Lập hạng nhất;
 
--     Huy chương Vì sự nghiệp đại đoàn kết toàn dân.
+- Huy chương Vì sự nghiệp đại đoàn kết toàn dân.
 
--     Bằng khen của Thủ tướng Chính phủ
+- Bằng khen của Thủ tướng Chính phủ;
 
--      Bằng Tuyên dương Công đức của Giáo hội Phật giáo Việt Nam và nhiều phần thưởng cao quý khác.
+- Bằng Tuyên dương Công đức của Giáo hội Phật giáo Việt Nam và nhiều phần thưởng cao quý khác.
 
 
 **IV. THỜI GIAN VIÊN TỊCH:** 
@@ -153,5 +156,4 @@ Ngày nay, khi hạnh nguyện hoằng dương Phật pháp, tế độ chúng s
 
 Nam mô Từ Lâm Tế Gia Phổ, Tứ thập nhất thế, Pháp húy thượng Nhựt hạ Bình, tự Thiện Chánh, hiệu Trí Tịnh, Nguyễn công Đại lão Hòa thượng Giác linh.
 
-*Nguồn GHPGVN*
 

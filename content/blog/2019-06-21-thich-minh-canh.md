@@ -6,7 +6,7 @@ author: ["doanbinh"]
 
 Trong những năm sau này, Hòa thượng từng làm Yết-ma các Đại giới đàn tại chùa Phổ Quang – Tp. HCM, Đại Tòng Lâm – Vũng Tàu. Đặc biệt là chứng minh nhiều giới đàn do Tăng thân Làng Mai tổ chức tại Pháp, Thái Lan.
 
-![ten buc hinh](http://www.phattuvietnam.net/wp-content/uploads/2018/10/SU-PHU-1.jpg "ten buc hinh")
+![ten buc hinh](https://file.hstatic.net/1000022227/article/su-phu_1_large.jpg "ten buc hinh")
 
 **Thân thế**
 
@@ -76,5 +76,3 @@ Kính nguyện Giác linh Hòa thượng cao đăng Phật quốc.
 
 Nam mô Tự Lâm Tế Chánh Tông tứ thập thế thượng Minh hạ Cảnh húy Chơn Đài Nguyễn công Hòa thượng tân viên tịch.
 
-**Đệ tử Môn Đồ Pháp Quyến Tu Viện Huệ Quang**
-*Kính soạn*
